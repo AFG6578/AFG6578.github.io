@@ -1,0 +1,62 @@
+# Alec Giordano
+![](https://github.com/AFG6578/AFG6578.github.io/blob/main/P1Res.jpeg)\
+
+
+
+1234 Main St., City, State 12345
+(845) 545 5101
+ausggeo3510@gmail.com http://www.linkedin.com/in/AlecGiordano
+# Summary
+Learned team work and project management while employed at JGS Accounting frim.
+Have experience utilizing ArcGIS pro/Desktop, QGIS, and GeoDa in projects such as
+detailing Houston Texas crime data and Electric Car Registration analysis. Familiarity with the utilization of SQL Python HTML and Markdown languages.
+## Judelson Giordano Siegel (Middletown, NY)
+* [JGS][] Accounting frim
+** **Accounting Intern** (July 2014 - July 2017)
+###### Summary of Roles
+- Conducted in-depth research and analysis to resolve any financial discrepancies within
+accounts.
+- Accurately inputted data into general ledgers under guidance of supervisor.
+Compiled data regarding client research project subjects into different reports and
+distributed to appropriate personnel.
+- Checked and completed balance sheet reconciliations.
+- Supported special accounting projects by coordinating files, preparing deliverables and
+updating tracking spreadsheets.
+- Scanned legal documents in an effort to reorganize the existing system to a paperless
+structure.
+- Assisted with the delegation of tasks
+## Boys and Girls Club of Wallkill Valley (Wallkill, NY)
+*[Boys and Girls Club][]  Youth devlpmnet program/ Community collections
+** **Volunteer Worker**
+###### Summary of Roles
+- Unloaded donated and purchases supplies to support charity operations. ( school
+supplies for kids and organized displays.)
+- Assisted with facilities maintenance needs, including basic cleaning and trash removal.
+- Sorted and distributed food to disadvantaged families, including canned goods and
+fresh produce. ( Organized pantry and checked expirations)
+- Communicated needs and issues to appropriate supervisors for administrative action.(Wine tasting/ catering event worked with teams to cover designated areas and service/
+wait tables)
+## EDUCATION AND TRAINING
+University of Connecticut
+Bachelor of Science: Geographic Information Science/ Computer Science
+Storrs, CT
+
+- I am currently an undergraduate student at the University of Connecticut
+- As a GIS major I have worked with various software including: ArcMap, ArcGIS Pro, Arc
+Catalog, GeoDa, QGIS, and ArcGIS Online.
+- Other associated classes I have taken to supplement my education include courses in
+economics, accounting, python, Microsoft Access, and SQL( Currently in Progress)
+- I have done work with Geoprocessing/Geocoding, digitizing, buffers, raw tabular data(excel),
+hillshades, various types of maps(ex: web, story,popup, thematic), Geo statistics, queries ect...
+[JGS]: https://jgspc.com/
+[Boys and Girls Club]: https://www.bgcorange.org/
+[University 3]: http://www.univ3.edu
+
+# Accomplishments
+
+- National Youth Leadership Forum: Engineering and Technology Envision Program
+
+- Congress of Future Science and Technology Leaders UMass
+- National Society of High School Scholars
+- Society of Torch and Laurel/ National Society of Collegiate Scholars
+- Brandeis Literature Award
